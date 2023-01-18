@@ -1,0 +1,1 @@
+{"uuid":"a848c941-8ba8-47aa-90da-733af39a33a8","name":"practice.p1","children":["8a9d6a72-6140-4c42-914c-9ed58ec39acf"],"befores":[{"name":"setup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673853436488,"stop":1673853447595}],"afters":[],"start":1673853436443,"stop":1673853448094}

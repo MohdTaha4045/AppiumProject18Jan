@@ -1,0 +1,1 @@
+{"uuid":"160ec97b-3476-4a1d-b609-1658eba58e46","name":"practice.p1","children":["37500e67-20e6-42bf-8eef-066ffeb63d09"],"befores":[],"afters":[{"name":"tearDownBrowser","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1673849621673,"stop":1673849622128}],"start":1673849612467,"stop":1673849622153}
